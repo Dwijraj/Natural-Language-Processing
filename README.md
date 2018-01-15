@@ -16,9 +16,9 @@ and more
 
 This repository contains a guide of how NLP problems are to be dealt with.
 
-#Using Bag of Words Model
+# Using Bag of Words Model
 	
-	<table>
+<table>
 		<td>
 			<tr>
 				Encoder
@@ -79,5 +79,5 @@ This repository contains a guide of how NLP problems are to be dealt with.
 			</tr>	
 		</td>
 	
-	</table>
+</table>
 	
