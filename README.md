@@ -15,3 +15,5 @@ Speech Recognition.
 and more
 
 This repository contains a guide of how NLP problems are to be dealt with.
+
+This repository contains excerpts from the blog https://machinelearningmastery.com/ by Dr. Jason Browlee
